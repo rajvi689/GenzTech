@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { X, Send, AlertCircle } from 'lucide-react';
 
 export const RequirementForm = ({ isOpen, onClose }) => {

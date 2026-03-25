@@ -1,4 +1,3 @@
-import React from 'react';
 import { CheckCircle, MessageSquare, Lightbulb, Rocket, Wrench } from 'lucide-react';
 
 const steps = [

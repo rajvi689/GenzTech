@@ -1,5 +1,4 @@
-import React from 'react';
-import { Code2, Globe, Zap, Brain, ArrowRight } from 'lucide-react';
+import { Code2, Globe, Zap, Brain } from 'lucide-react';
 
 const services = [
   {

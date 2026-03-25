@@ -1,4 +1,3 @@
-import React from 'react';
 import { ArrowRight, Zap } from 'lucide-react';
 
 export const FinalCTA = ({ onFormOpen }) => {
